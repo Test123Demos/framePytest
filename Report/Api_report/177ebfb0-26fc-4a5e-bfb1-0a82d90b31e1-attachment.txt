@@ -1,0 +1,2 @@
+2022-12-06 11:10:21 INFO mothed: post, url: http://127.0.0.1:5000/user/signin, value: {'username': 'admin', 'password': '123456'}
+2022-12-06 11:10:21 INFO {"code": "200", "msg": "\u8d26\u53f7\u6216\u8005\u5bc6\u7801\u9519\u8bef!"}

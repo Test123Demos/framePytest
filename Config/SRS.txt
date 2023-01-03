@@ -1,0 +1,8 @@
+pytest-html
+pytest-xdist
+pytest-ordering
+pytest-rerunfailures
+allure-pytest
+pytest-selenium
+pyyaml
+pip install -r 绝对路径

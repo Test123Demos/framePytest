@@ -1,0 +1,5 @@
+请求前的数据:Method:post
+,url:http://127.0.0.1:5000/user/signin
+,data:None
+,json:{'username': 'admin', 'password': ''}
+,kwargs:{'headers': {}}

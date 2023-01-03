@@ -1,0 +1,10 @@
+请求前的数据:
+Method:post
+url:http://127.0.0.1:5000/user/signin
+data:None
+json:{'username': 'admin', 'password': '123456'}
+kwargs:{'headers': {}}
+请求后的数据:
+headers:{'Content-Type': 'application/json', 'Content-Length': '76', 'Access-Control-Allow-Headers': 'content-type,Origin', 'Access-Control-Allow-Origin': '*', 'Date': 'Tue, 06 Dec 2022 06:40:31 GMT'}
+code:200
+text:{"code": "200", "msg": "\u8d26\u53f7\u6216\u8005\u5bc6\u7801\u9519\u8bef!"}

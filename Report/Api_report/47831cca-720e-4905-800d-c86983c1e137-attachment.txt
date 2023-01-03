@@ -1,0 +1,2 @@
+2022-12-06 11:10:21 INFO mothed: post, url: http://127.0.0.1:5000/user/signin, value: {'username': '1000001', 'password': '9898'}
+2022-12-06 11:10:21 INFO {"id": 1, "status": "0", "createtime": "Sat, 13 Aug 2022 00:00:00 -0000", "updatetime": "Wed, 26 Oct 2022 09:00:55 -0000"}

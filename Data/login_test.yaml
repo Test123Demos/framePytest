@@ -1,0 +1,14 @@
+code:
+  url: http://manage.duoceshi.com/auth/code
+  mothed: get
+  token:
+  parms:
+  value:
+  response:
+login:
+  url: http://manage.duoceshi.com/auth/login
+  mothed: POST
+  token:
+  parms: json
+  value: {"username":"admin","password":"nrzIHtSIDRSGv4z3Qu1nzOLSM3RMVsaaAmKl6DTsMkO8Zv0BUv5S/TYqa+UhEZijEV7U3Nddz5rogAWJAbiirg==","code":"8888","uuid":"code-key7e81b0e402e04aa39d577eaaf68b5dec"}
+  response:

@@ -1,0 +1,10 @@
+请求前的数据:
+Method:post
+url:http://manage.duoceshi.com/auth/login
+data:None
+json:{'username': 'admin1', 'password': 'nrzIHtSIDRSGv4z3Qu1nzOLSM3RMVsaaAmKl6DTsMkO8Zv0BUv5S/TYqa+UhEZijEV7U3Nddz5rogAWJAbiirg==', 'code': '8888', 'uuid': 'code-key673f77b4ff1245aa9caef2a580160a64'}
+kwargs:{}
+请求后的数据:
+headers:{'Server': 'nginx/1.16.1', 'Date': 'Tue, 06 Dec 2022 11:28:47 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Origin, Access-Control-Request-Method, Access-Control-Request-Headers', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '1; mode=block', 'Cache-Control': 'no-cache, no-store, max-age=0, must-revalidate', 'Pragma': 'no-cache', 'Expires': '0'}
+code:400
+text:{"status":400,"timestamp":"2022-12-06 19:28:47","message":"当前用户不存在"}

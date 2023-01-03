@@ -1,0 +1,23 @@
+loging:
+  url: http://127.0.0.1:5000/user/signin
+  mothed: post
+  token:
+  parms: json
+  value: {"username":"1000001","password":"9898"}
+  response: {"id": 1 }
+
+loging1:
+  url: http://127.0.0.1:5000/user/signin
+  mothed: post
+  token:
+  parms: json
+  value: {"username":"admin","password":"123456"}
+  response: token
+
+loging2:
+  url: http://127.0.0.1:5000/user/signin
+  mothed: post
+  token:
+  parms: json
+  value: {"username":"admin","password":""}
+  response:

@@ -1,0 +1,10 @@
+请求前的数据:
+Method:post
+url:http://127.0.0.1:5000/user/signin
+data:None
+json:{'username': '1000001', 'password': '9898'}
+kwargs:{'headers': {}}
+请求后的数据:
+headers:{'Content-Type': 'application/json', 'Content-Length': '123', 'Access-Control-Allow-Headers': 'content-type,Origin', 'Access-Control-Allow-Origin': '*', 'Vary': 'Cookie', 'Set-Cookie': 'session=eyJpZCI6MX0.Y466jQ.DQUDzVLHxqEs0k9OoyfVZRotmCo; HttpOnly; Path=/', 'Date': 'Tue, 06 Dec 2022 03:44:13 GMT'}
+code:200
+text:{"id": 1, "status": "0", "createtime": "Sat, 13 Aug 2022 00:00:00 -0000", "updatetime": "Wed, 26 Oct 2022 09:00:55 -0000"}
