@@ -1,0 +1,10 @@
+请求前的数据:
+Method:post
+url:http://manage.duoceshi.com/api/yxStoreCategory
+data:None
+json:{'id': None, 'cateName': '232233243', 'pid': 1811, 'isShow': 1, 'sort': 1, 'pic': 'http://127.0.0.1:8001/file/pic/20221207215749885121.jpg'}
+kwargs:{'headers': {'Authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTY4NDk2NTM5OH0.ugdNOoYanBGigQk7Uso3rmQmvCdVSigt1xp2SUkStvw3U5gHKWMDJXOvFD55CAQFwu6v8mi1uMT4tk-1IrnP2w'}}
+请求后的数据:
+headers:{'Server': 'nginx/1.16.1', 'Date': 'Fri, 09 Dec 2022 05:56:39 GMT', 'Content-Type': 'application/json', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Vary': 'Origin, Access-Control-Request-Method, Access-Control-Request-Headers', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '1; mode=block', 'Cache-Control': 'no-cache, no-store, max-age=0, must-revalidate', 'Pragma': 'no-cache', 'Expires': '0'}
+code:201
+text:true

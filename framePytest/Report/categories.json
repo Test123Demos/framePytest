@@ -1,0 +1,32 @@
+[
+  {
+    "name": "skipped跳过的测试用例",
+    "matchedStatuses": ["skipped"]
+  },
+  {
+    "name": "broken,failed数据类型处理错误",
+    "matchedStatuses": ["broken", "failed"],
+    "messageRegex": ".*bye-bye.*"
+  },
+  {
+    "name": "broken文件流错误",
+    "matchedStatuses": ["broken"],
+    "traceRegex": ".*FileNotFoundException.*"
+  },
+  {
+    "name": "failed错误集合",
+    "matchedStatuses": ["failed"]
+  },
+  {
+    "name": "broken错误集合",
+    "matchedStatuses": ["broken"]
+  },
+  {
+    "name": "unknown错误集合",
+    "matchedStatuses": ["unknown"]
+  },
+   {
+    "name": "passed通过集合",
+    "matchedStatuses": ["passed"]
+  }
+]

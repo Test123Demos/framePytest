@@ -1,0 +1,25 @@
+{
+  "loging":
+  [
+    {
+    "value": {
+      "username":"1000001",
+      "password":"9898"
+    },
+    "url": "http://127.0.0.1:5000/user/signin",
+    "mothed": "post",
+    "parms": "json",
+    "response": {"id": 1 }
+  },
+  {
+    "value": {
+      "username":"1000001",
+      "password":"9898"
+    },
+    "url": "http://127.0.0.1:5000/user/signin",
+    "mothed": "post",
+    "parms": "json",
+    "response": {"id": 1 }
+  }
+  ]
+}
